@@ -1,0 +1,1007 @@
+{
+  "Alachua": {
+    "propertyAppraiser": {
+      "county": "Alachua",
+      "name": "Ayesha Solomon, CFA",
+      "address": "515 North Main Street, Suite 200, Gainesville, FL 32601",
+      "phone": "352-374-5230",
+      "website": "acpafl.org"
+    },
+    "taxCollector": {
+      "county": "Alachua County",
+      "address": "P.O Box 44310, Jacksonville, FL, 32231",
+      "phone": "(352) 374-5236",
+      "website": "www.alachuacollector.com"
+    }
+  },
+  "Baker": {
+    "propertyAppraiser": {
+      "county": "Baker",
+      "name": "Timothy P. Sweat, CFA",
+      "address": "32 N 5th Street, Suite B Macclenny, FL 32063",
+      "phone": "904-259-3191",
+      "website": "bakerpa.com"
+    },
+    "taxCollector": {
+      "county": "Baker County",
+      "address": "32 North 5th Street, MacClenny, FL, 32063",
+      "phone": "(904) 259-6880",
+      "website": "www.bakertaxcollect.com"
+    }
+  },
+  "Bay": {
+    "propertyAppraiser": {
+      "county": "Bay",
+      "name": "Dan Sowell, CFA",
+      "address": "860 W. 11th Street, Panama City, FL 32401",
+      "phone": "850-248-8401",
+      "website": "baypa.net"
+    },
+    "taxCollector": {
+      "county": "Bay County",
+      "address": "P.O. Box 2285, Panama City, FL, 32402",
+      "phone": "(850) 248-8501",
+      "website": "baytaxcollector.com"
+    }
+  },
+  "Bradford": {
+    "propertyAppraiser": {
+      "county": "Bradford",
+      "name": "Kenny Clark, CFA",
+      "address": "945 North Temple Ave, Suite A, Starke, FL 32091",
+      "phone": "904-966-6216",
+      "website": "bradfordappraiser.com"
+    },
+    "taxCollector": {
+      "county": "Bradford County",
+      "address": "P.O. Box 969, Starke, FL, 32091",
+      "phone": "(904) 966-6235",
+      "website": "bradfordtaxcollector.com"
+    }
+  },
+  "Brevard": {
+    "propertyAppraiser": {
+      "county": "Brevard",
+      "name": "Dana Blickley, CFA",
+      "address": "P.O. Box 429 Titusville, FL 32781-0429",
+      "phone": "321-264-6700",
+      "website": "bcpao.us"
+    },
+    "taxCollector": {
+      "county": "Brevard County",
+      "address": "400 South Street 6th Floor, Titusville, FL, 32780",
+      "phone": "(321) 264-6935",
+      "website": "www.brevardtaxcollector.com"
+    }
+  },
+  "Broward": {
+    "propertyAppraiser": {
+      "county": "Broward",
+      "name": "Marty Kiar, CFA",
+      "address": "115 South Andrews Avenue, Room 111 Fort Lauderdale, FL 33301-1899",
+      "phone": "954-357-6830",
+      "website": "bcpa.net"
+    },
+    "taxCollector": {
+      "county": "Broward County",
+      "address": "115 S Andrews Avenue, Room #A100, Fort Lauderdale, FL, 33301",
+      "phone": "(954) 765-4697",
+      "website": "broward.county-taxes.com"
+    }
+  },
+  "Calhoun": {
+    "propertyAppraiser": {
+      "county": "Calhoun",
+      "name": "Carla Peacock, CFA",
+      "address": "",
+      "phone": "850-674-5636",
+      "website": "calhounpa.net"
+    },
+    "taxCollector": {
+      "county": "Calhoun County",
+      "address": "20859 Central Avenue E Room 107, Blountstown, FL, 32424",
+      "phone": "(850) 674-8242",
+      "website": "calhountax.com"
+    }
+  },
+  "Charlotte": {
+    "propertyAppraiser": {
+      "county": "Charlotte",
+      "name": "Paul L. Polk, CFA, AAS, RES",
+      "address": "18500 Murdock Circle, Room 328 Port Charlotte, FL 33948",
+      "phone": "941-743-1498",
+      "website": "ccappraiser.com"
+    },
+    "taxCollector": {
+      "county": "Charlotte County",
+      "address": "18500 Murdock Circle, Port Charlotte, FL, 33948",
+      "phone": "(941) 743-1350",
+      "website": "taxcollector.charlottecountyfl.gov"
+    }
+  },
+  "Citrus": {
+    "propertyAppraiser": {
+      "county": "Citrus",
+      "name": "Cregg Dalton, CFA",
+      "address": "210 N. Apopka Ave., Suite 200 Inverness, FL 34450",
+      "phone": "352-341-6600",
+      "website": "citruspa.org"
+    },
+    "taxCollector": {
+      "county": "Citrus County",
+      "address": "210 N Apopka Avenue Suite 100, Inverness, FL, 34450",
+      "phone": "(352) 341-6500",
+      "website": "www.citrustc.us"
+    }
+  },
+  "Clay": {
+    "propertyAppraiser": {
+      "county": "Clay",
+      "name": "Tracy S. Drake, CFA, CAE, RES, AAS",
+      "address": "P.O Box 38, Green Cove Springs, FL 32043",
+      "phone": "904-284-6305",
+      "website": "ccpao.com"
+    },
+    "taxCollector": {
+      "county": "Clay County",
+      "address": "P.O. Box 218, Green Cove Springs, FL, 32043",
+      "phone": "(904) 284-6320",
+      "website": "www.claycountytax.com"
+    }
+  },
+  "Collier": {
+    "propertyAppraiser": {
+      "county": "Collier",
+      "name": "Vickie A. Downs. CFA",
+      "address": "3950 Radio Road, Naples, FL 34104-3750",
+      "phone": "239-252-8141",
+      "website": "collierappraiser.com"
+    },
+    "taxCollector": {
+      "county": "Collier County",
+      "address": "3291 E Tamiami Trail, Naples, FL, 34112",
+      "phone": "(239) 252-8177",
+      "website": "www.colliertax.com"
+    }
+  },
+  "Columbia": {
+    "propertyAppraiser": {
+      "county": "Columbia",
+      "name": "Jeff Hampton, CFA",
+      "address": "",
+      "phone": "386-758-1083",
+      "website": "appraiser.columbiacountyfla.com"
+    },
+    "taxCollector": {
+      "county": "Columbia County",
+      "address": "135 NE Hernando Ave Suite 125, Lake City, FL, 32055",
+      "phone": "(386) 758-1077",
+      "website": "www.columbiataxcollector.com"
+    }
+  },
+  "DeSoto": {
+    "propertyAppraiser": {
+      "county": "DeSoto",
+      "name": "David A. Williams, CFA",
+      "address": "",
+      "phone": "863-993-4866",
+      "website": "desotopa.com"
+    },
+    "taxCollector": {
+      "county": "DeSoto County",
+      "address": "P.O. Box 729, Arcadia, FL, 34265",
+      "phone": "(863) 993-4861",
+      "website": "www.desototaxcollector.com"
+    }
+  },
+  "Dixie": {
+    "propertyAppraiser": {
+      "county": "Dixie",
+      "name": "Robert A. Lee, CFA",
+      "address": "",
+      "phone": "352-498-1212",
+      "website": "qpublic.net/fl/dixie"
+    },
+    "taxCollector": {
+      "county": "Dixie County",
+      "address": "P.O. Box 5040, Cross City, FL, 32628",
+      "phone": "(352) 498-1213",
+      "website": "www.dixietaxcollector.com"
+    }
+  },
+  "Duval": {
+    "propertyAppraiser": {
+      "county": "Duval",
+      "name": "Joyce Morgan, CFA",
+      "address": "231 E. Forsyth Street, Suite 270 Jacksonville, FL 32202",
+      "phone": "904-255-5900",
+      "website": "coj.net/departments/property- appraiser"
+    },
+    "taxCollector": {
+      "county": "Duval County",
+      "address": "P.O Box 44009, Jacksonville, FL, 32231",
+      "phone": "(904) 255-5700",
+      "website": "www.duvaltaxcollect.net"
+    }
+  },
+  "Escambia": {
+    "propertyAppraiser": {
+      "county": "Escambia",
+      "name": "Chris Jones, CFA",
+      "address": "221 Palafox Place, Suite 300 Pensacola, FL 32502-5836",
+      "phone": "850-434-2735",
+      "website": "escpa.org"
+    },
+    "taxCollector": {
+      "county": "Escambia County",
+      "address": "P.O. Box 1312, Pensacola, FL, 32591",
+      "phone": "(850) 438-6500",
+      "website": "escambiataxcollector.com"
+    }
+  },
+  "Flagler": {
+    "propertyAppraiser": {
+      "county": "Flagler",
+      "name": "James E. Gardner, Jr., CFA",
+      "address": "1769 E. Moody Blvd. Bunnell, FL 32110",
+      "phone": "386-313-4150",
+      "website": "flaglerpa.com"
+    },
+    "taxCollector": {
+      "county": "Flagler County",
+      "address": "P.O. Box 876, Bunnell, FL, 32110",
+      "phone": "(386) 313-4160",
+      "website": "flaglertax.com"
+    }
+  },
+  "Franklin": {
+    "propertyAppraiser": {
+      "county": "Franklin",
+      "name": "Rhonda Millender Skipper, CFA",
+      "address": "",
+      "phone": "850-653-9236",
+      "website": "franklincountypa.net"
+    },
+    "taxCollector": {
+      "county": "Franklin County",
+      "address": "P.O. Drawer 188, Apalachicola, FL, 32329",
+      "phone": "(850) 653-9323",
+      "website": "www.franklincountytaxcollector.com"
+    }
+  },
+  "Gadsden": {
+    "propertyAppraiser": {
+      "county": "Gadsden",
+      "name": "Reginald A. Cunningham, CFA",
+      "address": "",
+      "phone": "850-627-7168",
+      "website": "gadsdenpa.com"
+    },
+    "taxCollector": {
+      "county": "Gadsden County",
+      "address": "P.O. Box 817, Quincy, FL, 32353",
+      "phone": "(850) 627-7255",
+      "website": "gadsdentaxcollector.com"
+    }
+  },
+  "Gilchrist": {
+    "propertyAppraiser": {
+      "county": "Gilchrist",
+      "name": "Damon C. Leggett, CFA",
+      "address": "",
+      "phone": "352-463-3190",
+      "website": "gcpaonline.net"
+    },
+    "taxCollector": {
+      "county": "Gilchrist County",
+      "address": "P.O. Box 194, Trenton, FL, 32693",
+      "phone": "(352) 463-3178",
+      "website": "gilchristtaxcollector.com"
+    }
+  },
+  "Glades": {
+    "propertyAppraiser": {
+      "county": "Glades",
+      "name": "Lorie Ward, CFA",
+      "address": "",
+      "phone": "863-946-6025",
+      "website": "gladesflpa.com"
+    },
+    "taxCollector": {
+      "county": "Glades County",
+      "address": "P.O. Drawer 1589, Moore Haven, FL, 33471",
+      "phone": "(863) 946-6035",
+      "website": "www.gladestaxcollector.com"
+    }
+  },
+  "Gulf": {
+    "propertyAppraiser": {
+      "county": "Gulf",
+      "name": "Mitchell T. Burke, CFA",
+      "address": "",
+      "phone": "850-229-6115",
+      "website": "gulfpa.com"
+    },
+    "taxCollector": {
+      "county": "Gulf County",
+      "address": "1000 Cecil G Costin Sr Blvd Rm 100, Port St. Joe, FL, 32456",
+      "phone": "(850) 229-6116",
+      "website": "gulftaxcollector.com"
+    }
+  },
+  "Hamilton": {
+    "propertyAppraiser": {
+      "county": "Hamilton",
+      "name": "David H. Goolsby, Jr., CFA",
+      "address": "",
+      "phone": "386-792-2791",
+      "website": "hamiltonpa.com"
+    },
+    "taxCollector": {
+      "county": "Hamilton County",
+      "address": "207 NE First Street Room 104, Jasper, FL, 32052",
+      "phone": "(386) 792-1284",
+      "website": "www.hamiltoncountytc.com"
+    }
+  },
+  "Hardee": {
+    "propertyAppraiser": {
+      "county": "Hardee",
+      "name": "Kathy L. Crawford, CFA",
+      "address": "",
+      "phone": "863-773-2196",
+      "website": "hardeepa.com"
+    },
+    "taxCollector": {
+      "county": "Hardee County",
+      "address": "P.O. Box 445, Wauchula, FL, 33873",
+      "phone": "(863) 773-9144",
+      "website": "hardeetaxcollector.com"
+    }
+  },
+  "Hendry": {
+    "propertyAppraiser": {
+      "county": "Hendry",
+      "name": "Dena R. Pittman, CFA",
+      "address": "25 E. Hickpochee Ave. Room A329 LaBelle, FL 33935-5015",
+      "phone": "863-675-5270",
+      "website": "hendryprop.com"
+    },
+    "taxCollector": {
+      "county": "Hendry County",
+      "address": "P.O. Box 1780, LaBelle, FL, 33975",
+      "phone": "(863) 675-5280",
+      "website": "www.hendrytaxcollector.com"
+    }
+  },
+  "Hernando": {
+    "propertyAppraiser": {
+      "county": "Hernando",
+      "name": "John C. Emerson, CFA",
+      "address": "201 Howell Ave., Suite 300, Brooksville, FL 34601-2042",
+      "phone": "352-754-4190",
+      "website": "hernandopa-fl.us/PAWebSite"
+    },
+    "taxCollector": {
+      "county": "Hernando County",
+      "address": "20 North Main Street Room 112, Brooksville, FL, 34601",
+      "phone": "(352) 754-4180",
+      "website": "www.hernandotax.us"
+    }
+  },
+  "Highlands": {
+    "propertyAppraiser": {
+      "county": "Highlands",
+      "name": "C. Raymond McIntyre, CFA",
+      "address": "600 South Commerce Ave., Sebring, Fl 33870",
+      "phone": "(863) 402-6500",
+      "website": "appraiser.co.highlands.fl.us"
+    },
+    "taxCollector": {
+      "county": "Highlands County",
+      "address": "540 South Commerce Avenue, Sebring, FL, 33870",
+      "phone": "(863) 402-6685",
+      "website": "www.hctaxcollector.com"
+    }
+  },
+  "Hillsborough": {
+    "propertyAppraiser": {
+      "county": "Hillsborough",
+      "name": "Bob Henriquez, CFA",
+      "address": "601 E. Kennedy Boulevard Tampa, FL 33602-4932",
+      "phone": "813-272-6100",
+      "website": "hcpafl.org"
+    },
+    "taxCollector": {
+      "county": "Hillsborough County",
+      "address": "P.O. Box 30012, Tampa, FL, 33630",
+      "phone": "(813) 635-5200",
+      "website": "www.hillstax.org"
+    }
+  },
+  "Holmes": {
+    "propertyAppraiser": {
+      "county": "Holmes",
+      "name": "Bryan A. Bell, CFA",
+      "address": "",
+      "phone": "850-547-2445",
+      "website": "qpublic.net/holmes"
+    },
+    "taxCollector": {
+      "county": "Holmes County",
+      "address": "224 North Waukesha Street, Bonifay, FL, 32425",
+      "phone": "(850) 547-1115",
+      "website": "www.holmestax.org"
+    }
+  },
+  "Indian River": {
+    "propertyAppraiser": {
+      "county": "Indian River",
+      "name": "Wesley Davis, CFA",
+      "address": "1800 27th Street, Vero Beach, Florida, 32960",
+      "phone": "772-226-1469",
+      "website": "ircpa.org"
+    },
+    "taxCollector": {
+      "county": "Indian River County",
+      "address": "P.O. Box 1509, Vero Beach, FL, 32961",
+      "phone": "(772) 226-1338",
+      "website": "www.ircgov.com/taxcollector"
+    }
+  },
+  "Jackson": {
+    "propertyAppraiser": {
+      "county": "Jackson",
+      "name": "Rebecca Morris-Haid, CFA",
+      "address": "",
+      "phone": "850-482-9646",
+      "website": "qpublic.net/fl/jackson"
+    },
+    "taxCollector": {
+      "county": "Jackson County",
+      "address": "P.O. Box 697, Marianna, FL, 32447",
+      "phone": "(850) 482-9653",
+      "website": "www.jacksoncountytaxcollector.com"
+    }
+  },
+  "Jefferson": {
+    "propertyAppraiser": {
+      "county": "Jefferson",
+      "name": "Angela Gray, CFA",
+      "address": "",
+      "phone": "850-997-3356",
+      "website": "jeffersonpa.net"
+    },
+    "taxCollector": {
+      "county": "Jefferson County",
+      "address": "500 West Walnut, Monticello, FL, 32344",
+      "phone": "(850) 342-0147",
+      "website": "www.jeffersontaxcollector.com"
+    }
+  },
+  "Lafayette": {
+    "propertyAppraiser": {
+      "county": "Lafayette",
+      "name": "Wayne McCray, CFA",
+      "address": "",
+      "phone": "386-294-1991",
+      "website": "lafayettepa.com"
+    },
+    "taxCollector": {
+      "county": "Lafayette County",
+      "address": "P.O. Box 96, Mayo, FL, 32066",
+      "phone": "(386) 294-1961",
+      "website": "www.lafayettetaxcollector.com"
+    }
+  },
+  "Lake": {
+    "propertyAppraiser": {
+      "county": "Lake",
+      "name": "Mark Jordan, CFA",
+      "address": "320 W. Main St., Suite A Tavares, FL 32778-3814",
+      "phone": "352-253-2150",
+      "website": "lakecopropappr.com"
+    },
+    "taxCollector": {
+      "county": "Lake County",
+      "address": "P.O. Box 327, Tavares, FL, 32778",
+      "phone": "(352) 343-9602",
+      "website": "www.laketax.com"
+    }
+  },
+  "Lee": {
+    "propertyAppraiser": {
+      "county": "Lee",
+      "name": "Matt Caldwell",
+      "address": "P.O. Box 1546 Fort Myers, FL 33902",
+      "phone": "888-721-0510",
+      "website": "leepa.org"
+    },
+    "taxCollector": {
+      "county": "Lee County",
+      "address": "P.O. Box 1609, Fort Myers, FL, 33902",
+      "phone": "(239) 533-6000",
+      "website": "www.leetc.com"
+    }
+  },
+  "Leon": {
+    "propertyAppraiser": {
+      "county": "Leon",
+      "name": "Akin Akinyemi, PhD, RA, CFA, CMS",
+      "address": "P.O. Box 1750 Tallahassee, FL 32302-1750",
+      "phone": "850-606-6200",
+      "website": "leonpa.org"
+    },
+    "taxCollector": {
+      "county": "Leon County",
+      "address": "P.O. Box 1835, Tallahassee, FL, 32302",
+      "phone": "(850) 606-4700",
+      "website": "www.leontaxcollector.net"
+    }
+  },
+  "Levy": {
+    "propertyAppraiser": {
+      "county": "Levy",
+      "name": "Assistant PA Randall Rutter",
+      "address": "P.O Box 100 355 Garner Street, Bronson, FL 32621",
+      "phone": "352-486-5222",
+      "website": "qpublic.net/fl/levy"
+    },
+    "taxCollector": {
+      "county": "Levy County",
+      "address": "310 School St., Bronson, FL, 32621",
+      "phone": "(352) 486-5172",
+      "website": "www.levycountytaxcollector.com"
+    }
+  },
+  "Liberty": {
+    "propertyAppraiser": {
+      "county": "Liberty",
+      "name": "Cindy Potter Walker",
+      "address": "",
+      "phone": "850-643-2279",
+      "website": "libertypa.org"
+    },
+    "taxCollector": {
+      "county": "Liberty County",
+      "address": "P.O. Box 400, Bristol, FL, 32321",
+      "phone": "(850) 643-2442",
+      "website": "www.libertytaxcollector.com"
+    }
+  },
+  "Madison": {
+    "propertyAppraiser": {
+      "county": "Madison",
+      "name": "Leigh B. Barfield, CFA",
+      "address": "229 SW Pinckney St. Room 201 | Madison, FL 32340",
+      "phone": "850-973-6133",
+      "website": "madisonpa.com"
+    },
+    "taxCollector": {
+      "county": "Madison County",
+      "address": "229 SW Pinckney St Room 102, Madison, FL, 32340",
+      "phone": "(850) 973-6136",
+      "website": "madisontaxcollector.com"
+    }
+  },
+  "Manatee": {
+    "propertyAppraiser": {
+      "county": "Manatee",
+      "name": "Charles Hackney, CFA",
+      "address": "915 4th Ave W Bradenton, FL 34205",
+      "phone": "941-748-8208",
+      "website": "manateepao.com"
+    },
+    "taxCollector": {
+      "county": "Manatee County",
+      "address": "P.O Box 25300, Bradenton, FL, 34206",
+      "phone": "(941) 741-4800",
+      "website": "www.taxcollector.com"
+    }
+  },
+  "Marion": {
+    "propertyAppraiser": {
+      "county": "Marion",
+      "name": "James Cowan, CFA",
+      "address": "P.O. Box 486 Ocala, FL 34478",
+      "phone": "352-368-8300",
+      "website": "pa.marion.fl.us"
+    },
+    "taxCollector": {
+      "county": "Marion County",
+      "address": "P.O. Box 63, Ocala, FL, 34478",
+      "phone": "(352) 368-8200",
+      "website": "www.mariontax.com"
+    }
+  },
+  "Martin": {
+    "propertyAppraiser": {
+      "county": "Martin",
+      "name": "Jenny Fields, CFA",
+      "address": "3473 SE Willoughby Blvd. Suite 101 Stuart, FL 34994",
+      "phone": "772-288-5608",
+      "website": "pa.martin.fl.us"
+    },
+    "taxCollector": {
+      "county": "Martin County",
+      "address": "3485 SE Willoughby Blvd., Stuart, FL, 34994",
+      "phone": "(772) 288-5600",
+      "website": "www.martintaxcollector.com"
+    }
+  },
+  "Miami-Dade": {
+    "propertyAppraiser": {
+      "county": "Miami-Dade",
+      "name": "Tom\u00e1s Regalado CFA",
+      "address": "111 NW 1st Street, Suite 710 Miami, FL 33128-1984?",
+      "phone": "305-375-4712",
+      "website": "miamidade.gov/pa"
+    },
+    "taxCollector": {
+      "county": "Miami-Dade County",
+      "address": "200 NW 2nd Avenue, Miami, FL, 33128",
+      "phone": "(305) 375-5448",
+      "website": "www.miamidade.gov/taxcollector"
+    }
+  },
+  "Monroe": {
+    "propertyAppraiser": {
+      "county": "Monroe",
+      "name": "Scott P. Russell, CFA, PPS, RES, AAS",
+      "address": "500 Whitehead Street, Key West, FL  33040",
+      "phone": "305-292-3420",
+      "website": "mcpafl.org"
+    },
+    "taxCollector": {
+      "county": "Monroe County",
+      "address": "P.O. Box 1129, Key West, FL, 33041",
+      "phone": "(305) 295-5000",
+      "website": "monroetaxcollector.com"
+    }
+  },
+  "Nassau": {
+    "propertyAppraiser": {
+      "county": "Nassau",
+      "name": "A. Michael Hickox, CFA",
+      "address": "45401 Mickler Street, Callahan, FL 32011",
+      "phone": "904-491-7300",
+      "website": "nassauflpa.com"
+    },
+    "taxCollector": {
+      "county": "Nassau County",
+      "address": "86130 License Road Suite 5, Fernandina Beach, FL, 32034",
+      "phone": "(904) 491-7400",
+      "website": "www.nassautaxes.com"
+    }
+  },
+  "Okaloosa": {
+    "propertyAppraiser": {
+      "county": "Okaloosa",
+      "name": "Mack Busbee, CFA",
+      "address": "1250 Eglin Pkwy N Suite 201, Shalimar, Florida 32579",
+      "phone": "850-651-7240",
+      "website": "okaloosapa.com"
+    },
+    "taxCollector": {
+      "county": "Okaloosa County",
+      "address": "P.O. Box 1390, Niceville, FL, 32588",
+      "phone": "(850) 651-7300",
+      "website": "www.okaloosatax.com"
+    }
+  },
+  "Okeechobee": {
+    "propertyAppraiser": {
+      "county": "Okeechobee",
+      "name": "Mickey L. Bandi, CFA",
+      "address": "",
+      "phone": "863-763-4422",
+      "website": "okeechobeepa.com"
+    },
+    "taxCollector": {
+      "county": "Okeechobee County",
+      "address": "307 NW 5th Avenue #B, Okeechobee, FL, 34972",
+      "phone": "(863) 763-3421",
+      "website": "www.okeechobeecountytaxcollector.com"
+    }
+  },
+  "Orange": {
+    "propertyAppraiser": {
+      "county": "Orange",
+      "name": "Amy Mercado",
+      "address": "200 S. Orange Avenue, Suite 1700, Orlando, FL 32801-3438?",
+      "phone": "407-836-5044",
+      "website": "ocpafl.org"
+    },
+    "taxCollector": {
+      "county": "Orange County",
+      "address": "P.O. Box 545100, Orlando, FL, 32854",
+      "phone": "(407) 845-6200",
+      "website": "www.octaxcol.com"
+    }
+  },
+  "Osceola": {
+    "propertyAppraiser": {
+      "county": "Osceola",
+      "name": "Katrina Scarborough, CFA, CCF, MCF",
+      "address": "2505 E Irlo Bronson Memorial Hwy Kissimmee, FL 34744?",
+      "phone": "407-742-5000",
+      "website": "property-appraiser.org"
+    },
+    "taxCollector": {
+      "county": "Osceola County",
+      "address": "P.O. Box 422105, Kissimmee, FL, 34742",
+      "phone": "(407) 742-4000",
+      "website": "www.osceolataxcollector.org"
+    }
+  },
+  "Palm Beach": {
+    "propertyAppraiser": {
+      "county": "Palm Beach",
+      "name": "Dorothy Jacks, CFA, AAS",
+      "address": "301 N. Olive Avenue, 5th Floor West Palm Beach, FL 33401",
+      "phone": "561-355-3230",
+      "website": "pbcgov.org/papa"
+    },
+    "taxCollector": {
+      "county": "Palm Beach County",
+      "address": "P.O. Box 3715, West Palm Beach, FL, 33402",
+      "phone": "(561) 355-2264",
+      "website": "www.pbctax.com"
+    }
+  },
+  "Pasco": {
+    "propertyAppraiser": {
+      "county": "Pasco",
+      "name": "Mike Wells",
+      "address": "P.O. Box 401 Dade City, FL 33526",
+      "phone": "352-521-4433",
+      "website": "pascopa.com"
+    },
+    "taxCollector": {
+      "county": "Pasco County",
+      "address": "P.O. Box 276, Dade City, FL, 33526",
+      "phone": "(352) 521-4360",
+      "website": "www.pascotaxes.com"
+    }
+  },
+  "Pinellas": {
+    "propertyAppraiser": {
+      "county": "Pinellas",
+      "name": "Mike Twitty, CFA MAI",
+      "address": "P.O. Box 1957 Clearwater, FL 33757-1957",
+      "phone": "727-464-3207",
+      "website": "pcpao.org"
+    },
+    "taxCollector": {
+      "county": "Pinellas County",
+      "address": "P.O. Box 31149, Tampa, FL, 33631",
+      "phone": "(727) 464-7777",
+      "website": "taxcollect.com"
+    }
+  },
+  "Polk": {
+    "propertyAppraiser": {
+      "county": "Polk",
+      "name": "Marsha M. Faux, CFA, ASA",
+      "address": "255 N. Wilson Avenue  Bartow, FL 33830?",
+      "phone": "863-534-4777",
+      "website": "polkpa.org"
+    },
+    "taxCollector": {
+      "county": "Polk County",
+      "address": "P.O. Box 1189, Bartow, FL, 33831",
+      "phone": "(863) 534-4700",
+      "website": "www.polktaxes.com"
+    }
+  },
+  "Putnam": {
+    "propertyAppraiser": {
+      "county": "Putnam",
+      "name": "Tim Parker, CFA",
+      "address": "312 Oak St, Palatka, FL 32177",
+      "phone": "386-329-0286",
+      "website": "pa.putnam-fl.com"
+    },
+    "taxCollector": {
+      "county": "Putnam County",
+      "address": "P.O. Drawer 1339, Palatka, FL, 32178",
+      "phone": "(386) 329-0282",
+      "website": "www.putnamtaxcollector.com"
+    }
+  },
+  "Santa Rosa": {
+    "propertyAppraiser": {
+      "county": "Santa Rosa",
+      "name": "Gregory S. Brown, II, CFA",
+      "address": "6495 Caroline Street, STE K Milton, FL 32570",
+      "phone": "850-983-1880",
+      "website": "srcpa.org"
+    },
+    "taxCollector": {
+      "county": "Santa Rosa County",
+      "address": "4487 Chumuckla Hwy, Pace, FL, 32571",
+      "phone": "(850) 983-1800",
+      "website": "www.santarosatax.com"
+    }
+  },
+  "Sarasota": {
+    "propertyAppraiser": {
+      "county": "Sarasota",
+      "name": "Bill Furst, CFA",
+      "address": "2001 Adams Lane Sarasota, FL 34237",
+      "phone": "941-861-8200",
+      "website": "sc-pa.com"
+    },
+    "taxCollector": {
+      "county": "Sarasota County",
+      "address": "P.O Box 30332, Tampa, FL, 33630",
+      "phone": "(941) 861-8300",
+      "website": "www.sarasotataxcollector.com"
+    }
+  },
+  "Seminole": {
+    "propertyAppraiser": {
+      "county": "Seminole",
+      "name": "David Johnson, CFA",
+      "address": "1101 E. 1st Street, Sanford, FL 32771",
+      "phone": "407-665-7506",
+      "website": "scpafl.org"
+    },
+    "taxCollector": {
+      "county": "Seminole County",
+      "address": "P.O Box 630, Sanford, FL, 32772",
+      "phone": "(407) 665-1000",
+      "website": "www.seminoletax.org"
+    }
+  },
+  "St. Johns": {
+    "propertyAppraiser": {
+      "county": "St. Johns",
+      "name": "Eddie Creamer, CFA",
+      "address": "4030\u00a0Lewis\u00a0Speedway,\u00a0Suite\u00a0203,\u00a0St.\u00a0Augustine,\u00a0Fl. 32084",
+      "phone": "904-827-5500",
+      "website": "sjcpa.us"
+    },
+    "taxCollector": {
+      "county": "St. Johns County",
+      "address": "4030 Lewis Speedway, St. Augustine, FL, 32084",
+      "phone": "(904) 209-2250",
+      "website": "www.sjctax.us"
+    }
+  },
+  "St. Lucie": {
+    "propertyAppraiser": {
+      "county": "St. Lucie",
+      "name": "Michelle Franklin, CFA",
+      "address": "2300 Virginia Avenue Fort Pierce, FL 34982",
+      "phone": "772-462-1000",
+      "website": "paslc.gov"
+    },
+    "taxCollector": {
+      "county": "St. Lucie County",
+      "address": "2300 Virginia Ave, Fort Pierce, FL, 34982",
+      "phone": "(772) 462-1650",
+      "website": "www.tcslc.com"
+    }
+  },
+  "Sumter": {
+    "propertyAppraiser": {
+      "county": "Sumter",
+      "name": "Joey Hooten",
+      "address": "218 E McCollum Avenue Bushnell, Florida 33513-6124",
+      "phone": "352-569-6800",
+      "website": "sumterpa.com"
+    },
+    "taxCollector": {
+      "county": "Sumter County",
+      "address": "220 E McCollum Avenue, Bushnell, FL, 33513",
+      "phone": "(352) 569-6740",
+      "website": "www.sumtertctaxcollector.com"
+    }
+  },
+  "Suwannee": {
+    "propertyAppraiser": {
+      "county": "Suwannee",
+      "name": "Ricky Gamble",
+      "address": "",
+      "phone": "386-362-1385",
+      "website": "suwanneepa.com"
+    },
+    "taxCollector": {
+      "county": "Suwannee County",
+      "address": "215 Pine Avenue SW Suite A, Live Oak, FL, 32064",
+      "phone": "(386) 362-2816",
+      "website": "www.suwanneetc.com"
+    }
+  },
+  "Taylor": {
+    "propertyAppraiser": {
+      "county": "Taylor",
+      "name": "Shawna Beach, CFA",
+      "address": "108 N Jefferson St, Perry, FL 32347",
+      "phone": "850-838-3511",
+      "website": "taylorcountypa.com"
+    },
+    "taxCollector": {
+      "county": "Taylor County",
+      "address": "P.O. Box 30, Perry, FL, 32348",
+      "phone": "(850) 838-3517",
+      "website": "taylorcountytaxcollector.com"
+    }
+  },
+  "Union": {
+    "propertyAppraiser": {
+      "county": "Union",
+      "name": "Bruce D. Dukes, CFA",
+      "address": "",
+      "phone": "386-496-3431",
+      "website": "unionpa.com"
+    },
+    "taxCollector": {
+      "county": "Union County",
+      "address": "55 W Main St Courthouse Room 108, Lake Butler, FL, 32054",
+      "phone": "(386) 496-3331",
+      "website": "union.county-taxes.com"
+    }
+  },
+  "Volusia": {
+    "propertyAppraiser": {
+      "county": "Volusia",
+      "name": "Larry Bartlett, CFA",
+      "address": "123 W. Indiana Ave., Rm. 102, DeLand, FL. 32720",
+      "phone": "386-736-5901",
+      "website": "vcpa.vcgov.org"
+    },
+    "taxCollector": {
+      "county": "Volusia County",
+      "address": "123 W Indiana Avenue Room 103, DeLand, FL, 32720",
+      "phone": "(386) 254-4626",
+      "website": "www.volusia.org/tax"
+    }
+  },
+  "Wakulla": {
+    "propertyAppraiser": {
+      "county": "Wakulla",
+      "name": "Ed Brimner",
+      "address": "3115-A Crawfordville Hwy. Crawfordville, Florida 32327",
+      "phone": "850-926-0500",
+      "website": "qpublic.net/fl/wakullapa"
+    },
+    "taxCollector": {
+      "county": "Wakulla County",
+      "address": "P.O. Box 280, Crawfordville, FL, 32326",
+      "phone": "(850) 926-3371",
+      "website": "wakullacountytaxcollector.com"
+    }
+  },
+  "Walton": {
+    "propertyAppraiser": {
+      "county": "Walton",
+      "name": "Gary J. Gregor, CFA, AAS",
+      "address": "571 E Nelson Ave, Defuniak Springs, FL 32433",
+      "phone": "850-892-8123",
+      "website": "waltonpa.com"
+    },
+    "taxCollector": {
+      "county": "Walton County",
+      "address": "P.O. Box 510, DeFuniak Springs, FL, 32435",
+      "phone": "(850) 892-8121",
+      "website": "www.waltontaxcollector.com"
+    }
+  },
+  "Washington": {
+    "propertyAppraiser": {
+      "county": "Washington",
+      "name": "Gil Carter, CFA",
+      "address": "1331 South Blvd, Chipley, FL 32428",
+      "phone": "850-638-6205",
+      "website": "qpublic.net/fl/washington"
+    },
+    "taxCollector": {
+      "county": "Washington County",
+      "address": "P.O. Box 1038, Chipley, FL, 32428",
+      "phone": "(850) 638-6275",
+      "website": "www.washingtoncountytaxcollector.com"
+    }
+  }
+}
