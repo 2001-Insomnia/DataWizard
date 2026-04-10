@@ -15,8 +15,18 @@ const STATE_REGISTRY = {
   },
   CO: {
     name: 'Colorado',
-    dataLoaded: false,
-    getData: () => ({})
+    dataLoaded: true,
+    getData: () => ({COLORADO_DATA})
+  },
+    CA: {
+    name: 'California',
+    dataLoaded: true,
+    getData: () => ({CALIFORNIA_DATA})
+  },
+    MA: {
+    name: 'Massachusetts',
+    dataLoaded: true,
+    getData: () => ({MASSACHUSETTS_DATA})
   },
   NY: {
     name: 'New York',
@@ -25,7 +35,7 @@ const STATE_REGISTRY = {
   },
   NJ: {
     name: 'New Jersey',
-    dataLoaded: false,
-    getData: () => ({})
+    dataLoaded: true,
+    getData: () => ({NEW_JERSEY_DATA})
   }
 };
