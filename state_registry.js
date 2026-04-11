@@ -1,4 +1,4 @@
-// state_registry.js — DataWizard 2.1
+// state_registry.js — DataWizard 2.2
 // ,------.            ,--.                     ,--.                         ,--.
 // |  .-.  \  ,--,--.,-'  '-. ,--,--.,--.   ,--.`--',-----. ,--,--.,--.--. ,-|  |
 // |  |  \  :' ,-.  |'-.  .-'' ,-.  ||  |.'.|  |,--.`-.  / ' ,-.  ||  .--'' .-. |
@@ -6,6 +6,7 @@
 // `-------'  `--`--'  `--'   `--`--''--'   '--'`--'`-----' `--`--'`--'    `---' 
 // i'm planning to eventually add new states here as their CSV data becomes available.
 // Each entry maps a state code to its display name and data object.
+//NEW STATES CA, CO, MA, NJ
 
 const STATE_REGISTRY = {
   CA: {

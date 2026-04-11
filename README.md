@@ -46,3 +46,8 @@ To install on edge
  |___|~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|___| 
 (_____)                                                                        (_____)
 ```
+Version notes
+  2.0 Stable version with Florida data
+  2.2 Added databases for Colorado, California, Massachussetts and New Jersey (that one is still under construction)
+  
+  
