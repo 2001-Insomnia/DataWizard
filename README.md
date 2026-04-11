@@ -47,7 +47,11 @@ To install on edge
 (_____)                                                                        (_____)
 ```
 Version notes
-  2.0 Stable version with Florida data
-  2.2 Added databases for Colorado, California, Massachussetts and New Jersey (that one is still under construction)
+
+  + 2.0 Stable version with Florida data
+ 
+  +  2.2 Added databases for Colorado, California, Massachussetts and New Jersey (that one is still under construction)
+
+  +  2.3 Data for New jersey was refined using a script that deleted redundancies and searched for the missing addressess. 
   
   

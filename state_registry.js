@@ -1,10 +1,9 @@
-// state_registry.js — DataWizard 2.2
+// state_registry.js — DataWizard 2.2.3
 // ,------.            ,--.                     ,--.                         ,--.
 // |  .-.  \  ,--,--.,-'  '-. ,--,--.,--.   ,--.`--',-----. ,--,--.,--.--. ,-|  |
 // |  |  \  :' ,-.  |'-.  .-'' ,-.  ||  |.'.|  |,--.`-.  / ' ,-.  ||  .--'' .-. |
 // |  '--'  /\ '-'  |  |  |  \ '-'  ||   .'.   ||  | /  `-.\ '-'  ||  |   \ `-' |
 // `-------'  `--`--'  `--'   `--`--''--'   '--'`--'`-----' `--`--'`--'    `---' 
-// i'm planning to eventually add new states here as their CSV data becomes available.
 // Each entry maps a state code to its display name and data object.
 //NEW STATES CA, CO, MA, NJ
 
@@ -12,27 +11,27 @@ const STATE_REGISTRY = {
   CA: {
     name: 'California',
     dataLoaded: true,
-    getData: () => CALIFORNIA_DATA   // defined in california_data.js
+    getData: () => CALIFORNIA_DATA   
   },
   CO: {
     name: 'Colorado',
     dataLoaded: true,
-    getData: () => COLORADO_DATA   // defined in colorado_data.js
+    getData: () => COLORADO_DATA   
   },
   FL: {
     name: 'Florida',
     dataLoaded: true,
-    getData: () => FLORIDA_DATA   // defined in florida_data.js
+    getData: () => FLORIDA_DATA   
   },
   MA: {
     name: 'Massachusetts',
     dataLoaded: true,
-    getData: () => MASSACHUSETTS_DATA   // defined in massachusetts_data.js
+    getData: () => MASSACHUSETTS_DATA   
   },
   NJ: {
     name: 'New Jersey',
     dataLoaded: true,
-    getData: () => NEW_JERSEY_DATA   // defined in newjersey_data.js
+    getData: () => NEW_JERSEY_DATA   
   },
   NY: {
     name: 'New York',

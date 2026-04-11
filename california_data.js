@@ -695,5 +695,5 @@ const CALIFORNIA_DATA = {
       "phone": "530-749-7840"
     }
   }
-};
-/alldonehere 
+}
+//all done
