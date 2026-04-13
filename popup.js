@@ -484,12 +484,17 @@ function injectFillForm(info, type) {
     setTimeout(() => { el.style.transition = 'background-color 0.8s'; el.style.backgroundColor = orig; }, 900);
   }
 
-  const inputs = Array.from(document.querySelectorAll(
-    'input:not([type="hidden"]):not([type="submit"]):not([type="button"]):not([type="checkbox"]):not([type="radio"]):not([type="file"]), textarea'
-  )).filter(el => {
-    const s = window.getComputedStyle(el);
-    return s.display !== 'none' && s.visibility !== 'hidden' && el.offsetParent !== null;
-  });
+ const inputs = Array.from(document.querySelectorAll(
+  'input:not([type="hidden"]):not([type="submit"]):not([type="button"]):not([type="checkbox"]):not([type="radio"]):not([type="file"]), textarea'
+)).filter(el => {
+  const s = window.getComputedStyle(el);
+  if (s.display === 'none' || s.visibility === 'hidden' || el.offsetParent === null) return false;
+  // side panel overfill fix 
+  const r = el.getBoundingClientRect();
+  const cx = r.left + r.width / 2;
+  if (cx >= window.innerWidth * 0.40) return false;
+  return true;
+});
 
   const used = new Set();
   let filled = 0;
