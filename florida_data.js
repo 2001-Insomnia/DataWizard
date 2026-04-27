@@ -804,4 +804,3 @@ const FLORIDA_DATA = {
     }
   }
 };
-//all done

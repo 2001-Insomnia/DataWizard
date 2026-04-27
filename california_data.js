@@ -696,4 +696,3 @@ const CALIFORNIA_DATA = {
     }
   }
 }
-//all done
